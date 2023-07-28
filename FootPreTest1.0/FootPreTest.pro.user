@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.1, 2023-07-10T09:53:52. -->
+<!-- Written by QtCreator 4.11.1, 2023-07-27T19:43:40. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -282,8 +282,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/plantarPressureTest/FootPressureUpperComputer/FootPreTest/FootPreTest.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/plantarPressureTest/FootPressureUpperComputer/FootPreTest/FootPreTest.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">FootPreTest2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/GitHub/plantarPressureTest/FootPreTest1.0/FootPreTest.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/GitHub/plantarPressureTest/FootPreTest1.0/FootPreTest.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
